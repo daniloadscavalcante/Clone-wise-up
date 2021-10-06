@@ -1,0 +1,170 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;800;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: #180A29; 
+    font-size: 14px;    
+}
+
+.contain{       
+    color: #fff;      
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;    
+}
+.card-login{    
+    max-width: 330px;
+    width: 330px; 
+    margin-top: 20vh;      
+}
+.card-login__logo{
+    margin-bottom: 70px;
+    text-align: center;
+}
+.Logo{
+    max-height: 40px;
+}
+label{
+    display: block;       
+    font-weight: 700;  
+}
+
+input{
+    width: 100%;
+    padding: 10px 0px;   
+    border: none;
+    outline: none;
+    background: transparent;
+    border-bottom: 1px solid #7F7C8E;   
+}
+.contain__login p{
+    text-align: center;
+    margin: 20px;
+}
+.card-login__showpass{
+    position: relative; 
+    transition: all .5s;
+}
+.card-login__showpass label:nth-of-type(1){
+    margin-top: 30px;
+}
+.card-login__showpassword{
+    position: absolute;
+    right: 0%;
+    top: 0px;  
+    padding: 5px; 
+}
+.card-login__showpassword img{
+    width: 35px;    
+}
+
+.card-login__information a{
+    text-align: right;
+    display: block;
+    text-decoration: none; 
+    margin: 12px 0px;   
+    color: #fff;
+    opacity: 0.7;
+}
+.card-login__btn{
+    width: 100%;    
+    height: 54px;
+    
+    font-weight: 700;
+    background-color: #00C278;
+    border: none;   
+    border-radius: 15px;
+    cursor:pointer;
+    transition:  all 0.4s ease-in-out 0s;
+}
+.card-login__btn:hover{
+    background-color: #03a165;
+}
+.card-login_or{
+    text-align: center;
+    margin: 20px 0px;
+}
+.card-login__social{    
+    text-align: center;
+    margin-bottom: 40px;
+}
+.card-login__social--bg{    
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    background-color: #fff;
+    line-height: 45px;
+    margin: 0px 7px;
+    cursor: pointer;
+}
+.card-login__social--bg i{
+    color: #180A29;
+    font-size: 20px;    
+}
+.card-login__sign-up{
+    text-align: center;
+    font-weight: bold;    
+}
+.card-login--bold{
+    text-align: center;
+    font-weight: bold;
+}
+.sign-up{
+    color: #00E37E;
+    cursor: pointer;
+}
+.sign-up i{
+    margin-left: 15px;
+    font-size: 16px;
+}
+hr{   
+    width: 50%;    
+    margin: 30px 0;
+    border-color: rgb(128, 125, 142);
+}
+.card-login__app{
+    padding: 0px 20px 20px 20px;    
+}
+.card-login__img{
+    margin: 13px 10px;
+    cursor: pointer;
+}
+.card-login--green{
+    color: #00E37E;
+    cursor: pointer;
+}
+.card-login__showpass--action{
+    background-color: #fff;
+    border-radius: 20px;
+    padding-left: 10px;
+    color:#180A29;
+    transition: all .5s;
+}
+@media only screen and (max-width: 500px){
+    .card-login {
+        width: 300px;
+        margin-top: 5vh;
+    }
+    input{
+        font-size: 16px;
+    }
+    .card-login__app{        
+        padding: 0px 0px 10px 0px;    
+    }
+    .card-login__img{
+        margin: 13px 5px;
+    }
+    hr{
+        width: 100%;
+        max-width: 90%;
+    }
+}
