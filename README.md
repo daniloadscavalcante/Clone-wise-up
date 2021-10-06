@@ -5,9 +5,7 @@
 
  Clone da interface de login da plataforma Wise up, foi usado a metodologia BEM.
  
- Site - https://www.studiouniversofeminino.com.br/
-
-
+ 
 ### Layout mobile :iphone:
 
 ![Mobile 1](https://github.com/daniloadscavalcante/assets/blob/master/wise-up-mobile-Original.jpg)
@@ -18,12 +16,12 @@
 ![Web 1](https://github.com/daniloadscavalcante/assets/blob/master/wise-up-desktop-Original.jpg)
 
 ### Clone finalizado !
-### Layout mobile :iphone:
+#### Layout mobile :iphone:
 
 ![Mobile 1](https://github.com/daniloadscavalcante/assets/blob/master/wise-up-mobile.gif)
 
 
-### Layout - web  :desktop_computer:
+#### Layout - web  :desktop_computer:
 
 ![Web 1](https://github.com/daniloadscavalcante/assets/blob/master/wise-up-desktop.gif)
 ### 🚀 Tecnologias utilizadas
