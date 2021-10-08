@@ -3,27 +3,20 @@
 
 ###  :open_book:  Sobre o projeto
 
- Clone da interface de login da plataforma Wise up, foi usado a metodologia BEM.
+ Clone da interface de login da plataforma Wise up, foi usado a metodologia BEM e Flexbox.
  
  
-### Layout mobile :iphone:
-
-![Mobile 1](https://github.com/daniloadscavalcante/assets/blob/master/wise-up-mobile-Original.jpg)
+### Layout Original :desktop_computer: :iphone:
 
 
-### Layout - web  :desktop_computer:
-
-![Web 1](https://github.com/daniloadscavalcante/assets/blob/master/wise-up-desktop-Original.jpg)
-
-### Clone finalizado !
-#### Layout mobile :iphone:
-
-![Mobile 1](https://github.com/daniloadscavalcante/assets/blob/master/wise-up-mobile.gif)
+![Web 1](https://github.com/daniloadscavalcante/assets/blob/master/wise-up-original.gif)
 
 
-#### Layout - web  :desktop_computer:
+#### Clone finalizado !:desktop_computer: :iphone:
 
-![Web 1](https://github.com/daniloadscavalcante/assets/blob/master/wise-up-desktop.gif)
+![Mobile 1](https://github.com/daniloadscavalcante/assets/blob/master/desafio-wise-up.gif)
+
+
 ### 🚀 Tecnologias utilizadas
 
 ### Front end
